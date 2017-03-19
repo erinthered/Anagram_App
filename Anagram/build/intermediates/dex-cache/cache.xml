@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/erinwilliams/.android/build-cache/2872948b7528b2b42e680b1fe9e5872bab16e7f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4262eb3bb4a283c281e2239846954dcfae2e0f15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b9ec21b18d3e938bd3ca048f5ffe7a632dc7ab16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erinwilliams/.android/build-cache/d6ddeac0ff63fd1fc12d400a5630b33fc8fe84d0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1fd72b6bc53118fe0d009050ddf2d65cef54836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a9fc673103bc0e75fb2b2c1f0b0aa287cc58bfe">
+        <dex dex="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_123f13f854ecd8263e72d7b27a13fa817f392cea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erinwilliams/.android/build-cache/aaa95cb88490f61128ec5203bada0529a14cff9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a39f370835c13a38f1f005d1f487e1a0eab56d72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erinwilliams/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_53f62ec2ba960148bf006d3e60fb2d494d692394/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/erinwilliams/.android/build-cache/aaa95cb88490f61128ec5203bada0529a14cff9c/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/erinwilliams/Documents/anagrams_starter/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_cbd1240832a957cfff4adf6bdd4098bb38053d46/classes.dex" />
+    </item>
+
+</items>
